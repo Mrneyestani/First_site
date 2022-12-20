@@ -1,0 +1,17 @@
+This is an example of some BOLD text.
+
+When you come over to my house, beware of the dog! Even though the word beware is displayed as bold,
+since it is marked using the <strong> element, the purpose is to mark it as important!
+
+Would you like to spend the weekend sailing and fishing on my boat Slice Of Life?
+
+My mom made a small mistake in leaving the door open and a sparrow flew in!
+
+I like to drink H2O every day to keep me hydrated. My birthday is the 29th of February 1995.
+
+While the bank robber was busy gathering the cash from the counter, my friend whispered in my ear,
+'Let's sneak out of here…'. We slowly moved towards the door and then made a dash for it!
+
+This text is highlighted with a marker, and this is not.
+
+The quick brown fox jumps right over the lazy lazy dog.
